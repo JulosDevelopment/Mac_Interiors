@@ -91,7 +91,7 @@ body video {
     min-height: 35rem;
     height: 100%;
     /*background-color: rgba(0, 46, 102, 0.8);*/
-    background-color: rgba(99, 110, 114,0.8);
+    background-color: rgba(99, 110, 114, 0.8);
 }
 
 .masthead .masthead-content h1 {
@@ -173,7 +173,7 @@ body video {
     display: block;
     color: white;
     /*background-color: rgba(0, 46, 102, 0.8);*/
-    background-color: rgba(99, 110, 114,0.7);
+    background-color: rgba(99, 110, 114, 0.7);
     border-radius: 100%;
     font-size: 2rem;
     line-height: 4rem;
