@@ -36,7 +36,9 @@ body {
 
 
     /* Location of the image */
-    background: url("../img/bg-mobile-fallback.jpg") #002E66 no-repeat center center scroll;
+    /*background: url("../img/bg-mobile-fallback.jpg") #002E66 no-repeat center center scroll;*/
+    background: url("../img/a.jpg") #002E66 no-repeat center center scroll;
+    /*background: url("../img/b.png") #002E66 no-repeat center center scroll;*/
 
     /* Background image is centered vertically and horizontally at all times */
     background-position: center center;
@@ -88,8 +90,8 @@ body video {
     width: 100%;
     min-height: 35rem;
     height: 100%;
-    background-color: rgba(0, 46, 102, 0.8);
-
+    /*background-color: rgba(0, 46, 102, 0.8);*/
+    background-color: rgba(99, 110, 114,0.8);
 }
 
 .masthead .masthead-content h1 {
@@ -170,7 +172,8 @@ body video {
 .social-icons ul>li>a {
     display: block;
     color: white;
-    background-color: rgba(0, 46, 102, 0.8);
+    /*background-color: rgba(0, 46, 102, 0.8);*/
+    background-color: rgba(99, 110, 114,0.7);
     border-radius: 100%;
     font-size: 2rem;
     line-height: 4rem;
@@ -213,13 +216,15 @@ body video {
     }
 
     .social-icons ul>li>a:hover {
-        background-color: #002E66;
+        background-color: #ba7c37;
     }
 }
 
 .btn-secondary {
-    background-color: #cd9557;
-    border-color: #cd9557;
+    /*background-color: #cd9557;*/
+    background-color: black;
+
+    /*border-color: #cd9557;*/
 }
 
 .btn-secondary:active,
